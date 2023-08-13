@@ -1,4 +1,4 @@
-# DS-200-Module-4
+# Data Visualization
 # Question:
 Select datasets from https://data.gov.in/ and create
 (a) a scatter plot,
